@@ -9,7 +9,15 @@ The app we built has two different dashboard views. The agency dashboard where a
 
 ## Links
 
-http://share-babygoround.firebaseapp.com
+http://share-babygoround.firebaseapp.com/login
+
+## Login
+
+```
+1@volunteer.com 
+1@agent.com
+qwerty
+```
 
 ## Running Instructions
 
@@ -22,8 +30,7 @@ Start (Port: 3000)
 ## Stack
 
 * React
-
-* Redux
+  (https://github.com/facebook/react)
 
 * Firebase
 
