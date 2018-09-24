@@ -18,7 +18,8 @@ Start (Port: 3000)
 ## Stack
 
 * React
-  (https://github.com/facebook/react)
+
+* Redux
 
 * Firebase
 
